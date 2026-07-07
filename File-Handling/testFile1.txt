@@ -1,0 +1,2 @@
+This is the line we put
+ in a file using fputs()
